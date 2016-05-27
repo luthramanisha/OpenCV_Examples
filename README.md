@@ -23,6 +23,7 @@ to learn more "what opencv offers?".
 This is very easy, in contrast to opening an image or video digitally for some transformation or processing using only some high level programming language.
  
 Refer example : OpenVideo.cpp
+
 Refer example : OpenImage.cpp
 
 
