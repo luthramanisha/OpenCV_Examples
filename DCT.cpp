@@ -4,6 +4,10 @@
 #include <stdlib.h>
 #include <time.h>
 
+/**
+ * Example to demonstrate how to achieve discrete cosine transformation for each of the video frames. 
+ * @author Manisha Luthra
+ * */
 using namespace std;
 using namespace cv;
 int main(int argc, char ** argv) {
