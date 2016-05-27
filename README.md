@@ -19,7 +19,7 @@ The repository provides an overview on some functionalities and algorithms OpenC
 to learn more "what opencv offers?".
 
 ##First examples uploaded
-###Open a image and video using opencv
+###Open an image and video using opencv
 This is very easy, in contrast to opening an image or video digitally for some transformation or processing using only some high level programming language.
  
 Refer example : OpenVideo.cpp
