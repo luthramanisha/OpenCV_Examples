@@ -17,3 +17,14 @@ If you are a beginner and want to learn OpenCV. Then this is the right page. I w
 ##Why this repository?
 The repository provides an overview on some functionalities and algorithms OpenCV provides. This will help OpenCV users 
 to learn more "what opencv offers?".
+
+##First examples uploaded
+###Open a image and video using opencv
+This is very easy, in contrast to opening an image or video digitally for some transformation or processing using only some high level programming language.
+ 
+Refer example : OpenVideo.cpp
+Refer example : OpenImage.cpp
+
+
+
+
