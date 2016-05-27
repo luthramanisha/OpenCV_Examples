@@ -1,4 +1,4 @@
-# OpenCV_Examples7
+# OpenCV_Examples
 ##About
 OpenCV is an open source platform for image processing. It provides 1000's of algorithms for video and image processing. If you want to :
 * Process a video
