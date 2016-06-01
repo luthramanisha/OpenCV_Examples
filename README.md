@@ -26,6 +26,12 @@ Refer example : OpenVideo.cpp
 
 Refer example : OpenImage.cpp
 
+####DCT
+Discrete cosine transform of images or frames in a video. 
+First Why DCT? 
+Discrete cosine transformation is a very useful operation in signal and image processing majorly for applications requiring lossy compression etc. Especially for JPEG's image. [Here's](https://en.wikipedia.org/wiki/Discrete_cosine_transform) the wiki page for the number of applications it is important for.
+
+Refer example : DCT.cpp
 
 
 
