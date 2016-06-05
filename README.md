@@ -26,7 +26,7 @@ Refer example : OpenVideo.cpp
 
 Refer example : OpenImage.cpp
 
-####DCT
+###DCT
 Discrete cosine transform of images or frames in a video. 
 
 First Why DCT? 
